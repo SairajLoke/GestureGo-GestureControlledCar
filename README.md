@@ -14,5 +14,6 @@ To run the system:
 2) run car_puppeteer
 3) here u go !
 
-[testing](https://drive.google.com/file/d/1uKzp2QUKbPOFD_vvzlonVccE8bzvTCFc/view?usp=share_link)
+[test1](https://drive.google.com/file/d/1uKzp2QUKbPOFD_vvzlonVccE8bzvTCFc/view?usp=share_link)
 
+other gesture mapping , and details will be updated soon. 
