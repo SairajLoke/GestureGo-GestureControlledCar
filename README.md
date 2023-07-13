@@ -1,7 +1,7 @@
 # GestureGo-GestureControlledCar
 Gesture Controlled car using MediaPipe , Tensorflow, ESP32MicroController
 
-The code was initially written for controlling Pluto Drone using gestures .
+The code was initially written for controlling Pluto Drone (the Drone used in InterIIT 11.0 check [IITIndore-DroneSwarm](https://github.com/IVDC-Club-IIT-Indore/DroneSwarm-InterIIT-2023)) using gestures .
 But considering the amount of intrinsic drift the drone had , i had to shift to gesture controlled car for now.
 
 Thus you may come across land/up /down commands in the code.
